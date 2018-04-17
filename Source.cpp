@@ -27,7 +27,7 @@ arrayData FIND_MAX_CROSSING_SUBARRAY(const vector<int> &A, const int &, const in
 void main() {
 
 	vector<vector<int>> A, run1, run2; //run1=Bru, etc...
-	vecotr<vector<double>>  run1T, run2T;
+	vector<vector<double>>  run1T, run2T;
 	vector<double>run1Tavg, run2Tavg;
 	vector<double> tempV;
 	duration<double, std::milli> time; // total time in milliseconds
