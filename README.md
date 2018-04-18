@@ -1,5 +1,5 @@
 # MaximumSubArray
-This Code contains the solution for the Maximum Subarray problem in C++ both using BRUTE-FORCE and DIVIDE-AND-CONQUER.
+This code contains the solution for the Maximum Subarray problem in C++ both using BRUTE-FORCE and DIVIDE-AND-CONQUER.
 The Maximum Subarray problem is finding the maximum value sum of a subarray of a given array as well as the indices of the subarray.
 The practical applications of this is if you were analyzing changes over time, in say the stock market, and need to know when would 
 be the optimal time to buy and sell. This algorithm will determine those points as well as the value of the given interval. BRUTE-FORCE
