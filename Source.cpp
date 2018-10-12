@@ -191,7 +191,7 @@ void vprint(const vector<int>&A) { // prints vector
 	}
 	cout << endl;
 }
-vector<int> makeranv(const int &size) { // takes in size and makes a random vecotr of ints from -bound-1 and  bounds of that size, returns vector
+vector<int> makeranv(const int &size) { // takes in size and makes a random vector of ints from -bound-1 and  bounds of that size, returns vector
 	vector<int> V;
 	for (int i = 0; i < size; i++) {
 		V.push_back((rand() % (2 * bounds) + 1) - bounds);
